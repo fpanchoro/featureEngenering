@@ -1,13 +1,20 @@
-# featureEngenering
+## featureEngenering
+
 integration of various techniques to perform feature engineering
 
 
 #install
+
 #!pip install --upgrade category_encoders
+
 #!pip install boruta
+
 #!pip install borutashap
+
 #!pip3 install catboost
+
 #!pip install eif
+
 #!pip install h2o
 
 
